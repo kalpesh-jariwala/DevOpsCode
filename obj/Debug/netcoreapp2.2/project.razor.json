@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Kalpesh work\\test12\\test12.csproj",
+  "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -1872,43 +1872,43 @@
   "RootNamespace": "test12",
   "Documents": [
     {
-      "FilePath": "d:\\Kalpesh work\\test12\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Kalpesh work\\test12\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Kalpesh work\\test12\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Kalpesh work\\test12\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Kalpesh work\\test12\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Kalpesh work\\test12\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Kalpesh work\\test12\\Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Kalpesh work\\test12\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
