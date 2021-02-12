@@ -17,7 +17,7 @@ namespace test12.Controllers
 
         public IActionResult Index2()
         {
-           
+           return View();
         }
 
         public IActionResult Privacy()
