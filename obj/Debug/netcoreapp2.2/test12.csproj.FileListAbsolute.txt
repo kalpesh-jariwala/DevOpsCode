@@ -34,5 +34,3 @@ D:\Kalpesh work\Git Repo Setup For DevOps\DevOpsCode\obj\Debug\netcoreapp2.2\tes
 D:\Kalpesh work\Git Repo Setup For DevOps\DevOpsCode\obj\Debug\netcoreapp2.2\test12.RazorAssemblyInfo.cs
 D:\Kalpesh work\Git Repo Setup For DevOps\DevOpsCode\obj\Debug\netcoreapp2.2\test12.AssemblyInfoInputs.cache
 D:\Kalpesh work\Git Repo Setup For DevOps\DevOpsCode\obj\Debug\netcoreapp2.2\test12.AssemblyInfo.cs
-D:\Kalpesh work\Git Repo Setup For DevOps\DevOpsCode\obj\Debug\netcoreapp2.2\test12.dll
-D:\Kalpesh work\Git Repo Setup For DevOps\DevOpsCode\obj\Debug\netcoreapp2.2\test12.pdb
