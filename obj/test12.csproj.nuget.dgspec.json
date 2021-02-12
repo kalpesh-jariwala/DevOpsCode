@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj": {}
+    "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj": {}
   },
   "projects": {
-    "D:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj": {
+    "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj",
+        "projectUniqueName": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj",
         "projectName": "test12",
-        "projectPath": "D:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj",
+        "projectPath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\test12.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\obj\\",
+        "outputPath": "d:\\Kalpesh work\\Git Repo Setup For DevOps\\DevOpsCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
